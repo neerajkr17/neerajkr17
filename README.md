@@ -10,13 +10,13 @@
 
 - 👯 I’m looking to collaborate on **projects.**
 
-- 💬 Ask me about **JAVA/HTML/CSS/JAVASCRIPT/PHP/LARAVEL**
+- 💬 Ask me about **JAVA/HTML/CSS/JAVASCRIPT/ReactJs/PHP/LARAVEL**
 
 - 📫 How to reach me **neeraj17399@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/iam-sanatan-nayak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iam-sanatan-nayak/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/neeraj-kumar-714444136/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iam-sanatan-nayak/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sanatannayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanatannayak" height="30" width="40" /></a>
 <a href="https://leetcode.com/sanatannayak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanatannayak" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sanatannayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sanatannayak" height="30" width="40" /></a>
