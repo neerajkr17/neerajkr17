@@ -69,14 +69,12 @@ I am Neeraj Kumar    </h2>
 ## <img src="https://media0.giphy.com/media/YZuPLv7YPBzBRXuWnf/giphy.gif?cid=ecf05e47b1vr1pwvpcs8wfyoilhcn8g0nj1jyqo13mhb5dcg&rid=giphy.gif&ct=s" width="40"> &nbsp; **GitHub Analytics**
 
 <p align="center">
-<a href="https://github.com/Abhishek-00">
-  <img height="156em" src="https://github-readme-stats-abhishek-00.vercel.app/api?username=Abhishek-00&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="156em" src="https://github-readme-stats-abhishek-00.vercel.app/api/top-langs/?username=Abhishek-00&layout=compact&langs_count=8&theme=dark"/>
-</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neerajkr17&show_icons=true&locale=en" alt="neerajkr17" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neerajkr17&show_icons=true&locale=en&layout=compact" alt="neerajkr17" /></p>
 </p>
 
 <p align="center">
- <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-00&theme=dark&hide_border=false"/>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neerajkr17&" alt="neerajkr17" /></p>
 </p>
 
 <br/>
