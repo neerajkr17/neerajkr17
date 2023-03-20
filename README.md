@@ -1,7 +1,8 @@
 <h2 align="center"> "Hello World"
 <img src="https://media4.giphy.com/media/RPukqDohL55Eo6Z38X/giphy.gif?cid=ecf05e47azgn9v1va67meuuf4d39nj3kwgp8uqwel58w2yn9&rid=giphy.gif&ct=s" width="40">
 
-I am Abhishek Kumar (he/him)    </h2>
+I am Neeraj Kumar    </h2>
+<p align="center"><a><img src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" alt="Hello" width="500" height="300"/></a></p>
 
 <p align='center'>
   <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
@@ -19,7 +20,7 @@ I am Abhishek Kumar (he/him)    </h2>
 - 🌱 I’m currently learning React by building projects.
 - 👯 I’m looking to collaborate on any open source projects using Javascript.
 - 😄 I love exploring and learning new skills as well as implement those in my projects.
-- 📫 How to reach me: **abhishek02102003@gmail.com**
+- 📫 How to reach me: **neeraj17399@gmail.com**
 - ⚡ Fun fact I also love to hear songs during coding.
 
 
@@ -86,16 +87,13 @@ I am Abhishek Kumar (he/him)    </h2>
 ## <img src="https://media2.giphy.com/media/numE3A55vbpBuDCxnA/giphy.gif?cid=ecf05e47rze9471w0iriay9ubhrvdmam2cbwpobzooqnsopa&rid=giphy.gif&ct=s" width="40"> &nbsp; **Connect with Me !! 🤝** ️
 
 <p align="left">
-<a href="https://www.linkedin.com/in/abhishek-00-/" target="_blank">
+<a href="https://www.linkedin.com/in/neeraj-kumar-714444136/" target="_blank">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
 </a>  
-<a href="https://twitter.com/Abhishek_ak_02" target="_blank">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-</a>
-<a href="https://www.instagram.com/btw_itsabhishek02" target="_blank">
+<a href="https://www.instagram.com/i_neeraj_kr" target="_blank">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
 </a>
-<a href="mailto:abhishek02102003@gmail.com@gmail.com" target="_blank">
+<a href="mailto:neeraj17399@gmail.com@gmail.com" target="_blank">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/gmail.svg" alt="GMail" style="vertical-align:top; margin:4px">
 </a>
 </p>
