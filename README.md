@@ -10,7 +10,7 @@ I am Neeraj Kumar    </h2>
 
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=abhishek-00&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-00" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=neerajkr17&label=Profile%20views&color=0e75b6&style=flat" alt="neerajkr17" /> </p>
 
 
 
